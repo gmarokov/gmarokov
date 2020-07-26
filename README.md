@@ -29,6 +29,7 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="20" height="20"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> 
@@ -37,17 +38,13 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/>
 </p>
 
-<h3 align="left"> Latest blog posts </h3>
-<p align="left">
+# Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-</p>
 
-<h3 align="left"> Latest StackOverflow activity </h3>
-<p align="left">
+# Latest StackOverflow activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
-</p>
   
 <p align="left"> 
     <img src="https://github-readme-stats.vercel.app/api?username=gmarokov&show_icons=true" alt="gmarokov" /> 
