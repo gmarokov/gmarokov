@@ -40,6 +40,11 @@
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Node.js Restful API template with TypeScript, Fastify and MongoDB](https://dev.to/gmarokov/node-js-restful-api-template-with-typescript-fastify-and-mongodb-4ceo)
+- [Configure your dev Windows machine with Ansible](https://dev.to/gmarokov/configure-your-dev-windows-machine-with-ansible-41aj)
+- [WordPress with WP-CLI on Bash on Ubuntu on Windows 10](https://dev.to/gmarokov/wordpress-with-wp-cli-on-bash-on-ubuntu-on-windows-10-4dpg)
+- [Getting started with Ansible and configuring Windows hosts](https://dev.to/gmarokov/getting-started-with-ansible-and-configuring-windows-hosts-20nd)
+- [Getting started with Hangfire on ASP.NET Core and PostgreSQL on Docker](https://dev.to/gmarokov/getting-started-with-hangfire-on-asp-net-core-and-postgresql-on-docker-56ak)
 <!-- BLOG-POST-LIST:END -->
 
 # Latest StackOverflow activity
