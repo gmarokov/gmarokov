@@ -16,15 +16,32 @@
   
 - 📫 How to reach me **georgi.marokov@gmail.com** 
 
+
+<h3 align="left">Working with the following technologies</h3>
 <p align="left">
-    I work with the following technologies: C#/.NET, JavaScript, TypeScript, Node.js, React, AWS, Azure, Docker, Laravel, PHP, MySQL, PostgreSQL, MSSQL, Nginx.
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="20" height="20"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="20" height="20"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> 
 </p>
 
-# Latest blog posts
+<h3 align="left"> Latest blog posts </h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-# Latest StackOverflow activity
+<h3 align="left"> Latest StackOverflow activity </h3>
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
   
