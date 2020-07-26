@@ -44,6 +44,11 @@
 
 # Latest StackOverflow activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by worldwildwebdev for Best practice/pattern for custom ILoggerProvider with DbContext as target](https://stackoverflow.com/questions/59956210/best-practice-pattern-for-custom-iloggerprovider-with-dbcontext-as-target/62835577#62835577)
+- [Comment by worldwildwebdev on EntityFrameworkCore SQLite in-memory db tables are not created](https://stackoverflow.com/questions/56319638/entityframeworkcore-sqlite-in-memory-db-tables-are-not-created/56367786#56367786)
+- [Comment by worldwildwebdev on Howto resolve .net test hangs on "Starting test execution, please wait..."](https://stackoverflow.com/questions/52389298/howto-resolve-net-test-hangs-on-starting-test-execution-please-wait/56431247#56431247)
+- [Comment by worldwildwebdev on Can I connect my DotNet Framework project with MariaDB database?](https://stackoverflow.com/questions/62789277/can-i-connect-my-dotnet-framework-project-with-mariadb-database)
+- [Comment by worldwildwebdev on Assign the key of TypeScript enum to variable](https://stackoverflow.com/questions/61031637/assign-the-key-of-typescript-enum-to-variable/61032472#61032472)
 <!-- STACKOVERFLOW:END -->
   
 <p align="left"> 
