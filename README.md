@@ -49,7 +49,7 @@
 
 # Latest StackOverflow activity
 <!-- STACKOVERFLOW:START -->
-- [Comment by worldwildwebdev on Newtonsoft JsonSerializer unable to deserialize to entity](https://stackoverflow.com/questions/63112063/newtonsoft-jsonserializer-unable-to-deserialize-to-entity)
+- [Comment by worldwildwebdev on Unable to deserialize JSON to an entity using Newtonsoft.Json](https://stackoverflow.com/questions/63112063/unable-to-deserialize-json-to-an-entity-using-newtonsoft-json)
 - [Answer by worldwildwebdev for Best practice/pattern for custom ILoggerProvider with DbContext as target](https://stackoverflow.com/questions/59956210/best-practice-pattern-for-custom-iloggerprovider-with-dbcontext-as-target/62835577#62835577)
 - [Comment by worldwildwebdev on EntityFrameworkCore SQLite in-memory db tables are not created](https://stackoverflow.com/questions/56319638/entityframeworkcore-sqlite-in-memory-db-tables-are-not-created/56367786#56367786)
 - [Comment by worldwildwebdev on Howto resolve .net test hangs on "Starting test execution, please wait..."](https://stackoverflow.com/questions/52389298/howto-resolve-net-test-hangs-on-starting-test-execution-please-wait/56431247#56431247)
