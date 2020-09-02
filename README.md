@@ -40,20 +40,10 @@
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Restful API template with TypeScript, Fastify and MongoDB](https://dev.to/gmarokov/node-js-restful-api-template-with-typescript-fastify-and-mongodb-4ceo)
-- [Configure your dev Windows machine with Ansible](https://dev.to/gmarokov/configure-your-dev-windows-machine-with-ansible-41aj)
-- [WordPress with WP-CLI on Bash on Ubuntu on Windows 10](https://dev.to/gmarokov/wordpress-with-wp-cli-on-bash-on-ubuntu-on-windows-10-4dpg)
-- [Getting started with Ansible and configuring Windows hosts](https://dev.to/gmarokov/getting-started-with-ansible-and-configuring-windows-hosts-20nd)
-- [Getting started with Hangfire on ASP.NET Core and PostgreSQL on Docker](https://dev.to/gmarokov/getting-started-with-hangfire-on-asp-net-core-and-postgresql-on-docker-56ak)
 <!-- BLOG-POST-LIST:END -->
 
 # Latest StackOverflow activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by worldwildwebdev for Best practice/pattern for custom ILoggerProvider with DbContext as target](https://stackoverflow.com/questions/59956210/best-practice-pattern-for-custom-iloggerprovider-with-dbcontext-as-target/62835577#62835577)
-- [Answer by worldwildwebdev for Publish ASP.NET WEB API 2 with SQL Server database in AWS](https://stackoverflow.com/questions/43583790/publish-asp-net-web-api-2-with-sql-server-database-in-aws/61032219#61032219)
-- [Assign the key of TypeScript enum to variable](https://stackoverflow.com/questions/61031637/assign-the-key-of-typescript-enum-to-variable)
-- [Answer by worldwildwebdev for Can`t convert string to int in c#](https://stackoverflow.com/questions/60379404/cant-convert-string-to-int-in-c-sharp/60379446#60379446)
-- [Answer by worldwildwebdev for How do I check if users input is equal to a certain value in my array?](https://stackoverflow.com/questions/59066776/how-do-i-check-if-users-input-is-equal-to-a-certain-value-in-my-array/59066980#59066980)
 <!-- STACKOVERFLOW:END -->
   
 <p align="left"> 
