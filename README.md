@@ -44,6 +44,11 @@
 
 # Latest StackOverflow activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by worldwildwebdev for Best practice/pattern for custom ILoggerProvider with DbContext as target](https://stackoverflow.com/questions/59956210/best-practice-pattern-for-custom-iloggerprovider-with-dbcontext-as-target/62835577#62835577)
+- [Answer by worldwildwebdev for Publish ASP.NET WEB API 2 with SQL Server database in AWS](https://stackoverflow.com/questions/43583790/publish-asp-net-web-api-2-with-sql-server-database-in-aws/61032219#61032219)
+- [Assign the key of TypeScript enum to variable](https://stackoverflow.com/questions/61031637/assign-the-key-of-typescript-enum-to-variable)
+- [Answer by worldwildwebdev for Can`t convert string to int in c#](https://stackoverflow.com/questions/60379404/cant-convert-string-to-int-in-c-sharp/60379446#60379446)
+- [Answer by worldwildwebdev for How do I check if users input is equal to a certain value in my array?](https://stackoverflow.com/questions/59066776/how-do-i-check-if-users-input-is-equal-to-a-certain-value-in-my-array/59066980#59066980)
 <!-- STACKOVERFLOW:END -->
   
 <p align="left"> 
