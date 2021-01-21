@@ -3,10 +3,15 @@
 </h1>  
 <h3 align="left">
     Web developer, who is really into resolving complex issues, dive deep in to the problem and finding elegant solution. I spend my free time with family and friends, riding bikes and hiking peaks.
+    
+Want to know more about me? [Check out my portfolio.](https://worldwildweb.dev)
+
 </h3>  
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=gmarokov" alt="gmarokov" /> 
-</p>  
+
+[![Visits Badge](https://badges.pufler.dev/visits/gmarokov/gmarokov)](https://worldwildweb.dev)
+[![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-orange?logo=gitlab&style=flat)](https://gitlab.com/gmarokov)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/georgi-marokov)
+[![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-blue?logo=dev.to&style=flat)](https://dev.to/gmarokov)
   
 - 🔭 I’m currently working on [Autohub - vehicle history management](https://autohub.bg)  
   
@@ -16,8 +21,7 @@
   
 - 📫 How to reach me **georgi.marokov@gmail.com** 
 
-
-<h3 align="left">Working with the following technologies</h3>
+## 💼 Working with the following technologies</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="30" height="30" /> 
@@ -40,7 +44,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="30" height="30" />                             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="30" height="30" />                               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30" />                                    
 </p>
 
-# Latest blog posts
+## 📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Node.js Restful API template with TypeScript, Fastify and MongoDB](https://dev.to/gmarokov/node-js-restful-api-template-with-typescript-fastify-and-mongodb-4ceo)
 - [Configure your dev Windows machine with Ansible](https://dev.to/gmarokov/configure-your-dev-windows-machine-with-ansible-41aj)
@@ -49,7 +53,7 @@
 - [Getting started with Hangfire on ASP.NET Core and PostgreSQL on Docker](https://dev.to/gmarokov/getting-started-with-hangfire-on-asp-net-core-and-postgresql-on-docker-56ak)
 <!-- BLOG-POST-LIST:END -->
 
-# Latest StackOverflow activity
+## 📣 Latest StackOverflow activity
 <!-- STACKOVERFLOW:START -->
 - [Answer by worldwildwebdev for Replacement for default Visual Studio Resx editor?](https://stackoverflow.com/questions/2067635/replacement-for-default-visual-studio-resx-editor/64400047#64400047)
 - [Answer by worldwildwebdev for How to use IMapper in Xunit test for Service method](https://stackoverflow.com/questions/63950084/how-to-use-imapper-in-xunit-test-for-service-method/63951931#63951931)
@@ -57,19 +61,14 @@
 - [Answer by worldwildwebdev for Publish ASP.NET WEB API 2 with SQL Server database in AWS](https://stackoverflow.com/questions/43583790/publish-asp-net-web-api-2-with-sql-server-database-in-aws/61032219#61032219)
 - [Assign the key of TypeScript enum to variable](https://stackoverflow.com/questions/61031637/assign-the-key-of-typescript-enum-to-variable)
 <!-- STACKOVERFLOW:END -->
-  
-<p align="left"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=gmarokov&show_icons=true" alt="gmarokov" /> 
-</p>  
-  
-<p align="left">  
-    <a href="https://gitlab.com/gmarokov" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="georgi-marokov" height="30" width="30" />
-    </a>  
-    <a href="https://dev.to/gmarokov" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gmarokov" height="30" width="30" />
-    </a>  
-    <a href="https://linkedin.com/in/georgi-marokov" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="georgi-marokov" height="30" width="30" />
-    </a>  
-</p>
+ 
+ ---
+
+## 📈 My GitHub Stats
+
+<a href="https://github.com/gmarokov">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmarokov&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+ </a>
+ <a href="https://github.com/gmarokov">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=gmarokov&show_icons=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="gmarokov" /> 
+</a>
