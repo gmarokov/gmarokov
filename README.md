@@ -4,10 +4,12 @@
 
 Want to know more about me? [Check out my portfolio.](https://worldwildweb.dev)
 
-[![Visits Badge](https://badges.pufler.dev/visits/gmarokov/gmarokov)](https://worldwildweb.dev)
+![GMarokov profile view count](https://komarev.com/ghpvc/?username=gmarokov&color=brightgreen)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-orange?logo=gitlab&style=flat)](https://gitlab.com/gmarokov)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/georgi-marokov)
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-blue?logo=dev.to&style=flat)](https://dev.to/gmarokov)
+[![Outlook Badge](https://img.shields.io/badge/-georgi.marokov-c14438?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:georgi.marokov@gmail.com)](mailto:georgi.marokov@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/gmarokov?label=Follow&style=social)](https://github.com/gmarokov/?tab=follow) 
   
 - 🔭 I’m currently working on [Autohub - vehicle history management](https://autohub.bg)  
   
