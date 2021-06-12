@@ -47,7 +47,7 @@ Want to know more about me? [Check out my portfolio.](https://worldwildweb.dev)
 
 ## 📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Analyze ASP.NET Core with your React SPA in SonarCloud](https://dev.to/gmarokov/analyze-asp-net-core-with-your-react-spa-in-sonarcloud-5goj)
+- [Analyze ASP.NET Core with React SPA in SonarCloud](https://dev.to/gmarokov/analyze-asp-net-core-with-your-react-spa-in-sonarcloud-5goj)
 - [Static Code Analysis for your .NET projects](https://dev.to/gmarokov/static-code-analysis-for-your-net-projects-3l0d)
 - [Node.js Restful API template with TypeScript, Fastify and MongoDB](https://dev.to/gmarokov/node-js-restful-api-template-with-typescript-fastify-and-mongodb-4ceo)
 - [Configure your dev Windows machine with Ansible](https://dev.to/gmarokov/configure-your-dev-windows-machine-with-ansible-41aj)
