@@ -61,7 +61,7 @@ Want to know more about me? [Check out my portfolio.](https://worldwildweb.dev)
 <!-- STACKOVERFLOW:START -->
 - [Power automate - Custom connector - Webhook trigger with dynamic schema properties](https://stackoverflow.com/questions/69793917/power-automate-custom-connector-webhook-trigger-with-dynamic-schema-properti)
 - [Answer by worldwildwebdev for ASP.NET Core Get Json Array using IConfiguration](https://stackoverflow.com/questions/41329108/asp-net-core-get-json-array-using-iconfiguration/69433338#69433338)
-- [Answer by worldwildwebdev for How do I properly configure the SonarQube MSBuild Scanner from the solution's perspective?](https://stackoverflow.com/questions/48121736/how-do-i-properly-configure-the-sonarqube-msbuild-scanner-from-the-solutions-pe/67186094#67186094)
+- [Answer by worldwildwebdev for How do I properly configure the SonarQube MSBuild Scanner from the solution&#39;s perspective?](https://stackoverflow.com/questions/48121736/how-do-i-properly-configure-the-sonarqube-msbuild-scanner-from-the-solutions-pe/67186094#67186094)
 - [Answer by worldwildwebdev for Replacement for default Visual Studio Resx editor?](https://stackoverflow.com/questions/2067635/replacement-for-default-visual-studio-resx-editor/64400047#64400047)
 - [Answer by worldwildwebdev for How to use IMapper in Xunit test for Service method](https://stackoverflow.com/questions/63950084/how-to-use-imapper-in-xunit-test-for-service-method/63951931#63951931)
 <!-- STACKOVERFLOW:END -->
